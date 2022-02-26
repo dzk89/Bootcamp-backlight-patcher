@@ -8,6 +8,8 @@ __Tested on Bootcamp.exe 6.1.8086.2__
 ## How to use
 Either use the .py or the .exe to patch the bootcamp.exe
 
+__IMPORTANT BEFORE USE: Make sure you killed bootcamp.exe in Task-Manager otherwise the patcher won't patch anything__
+
 For the __.py__:
 
 0. Backup bootcamp.exe in case it doesn't work, because then you need to replace the modified file with the backed up file using a live system.
